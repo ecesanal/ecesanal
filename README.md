@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elif Ece Şanal</h1>
 <h3 align="center">A student computer engineer from earth</h3>
 
-- 🌱 I’m currently learning **PHP, Laravel, SQL**
+- 🌱 I’m currently learning **.Net, C#, SQL**
 
 - 👨‍💻 All of my projects are available at [elifecesanal.com.tr](elifecesanal.com.tr)
 
