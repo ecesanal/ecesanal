@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elif Ece Şanal</h1>
-<h3 align="center">A student computer engineer from earth</h3>
+<h3 align="center">A computer engineer from earth</h3>
 
 - 🌱 I’m currently learning **.Net**
 
