@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **.Net , Angular**
 
-- 👨‍💻 All of my projects are available at [elifecesanal.com.tr](elifecesanal.com.tr)
-
 - 💬 Ask me about **HTML , SQL , C# , .NET**
 
 - 📫 How to reach me **elifecesanal4@gmail.com**
