@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Elif Ece Şanal</h1>
 <h3 align="center">🚀 A Passionate Computer Engineer from Earth 🌍</h3>
 
-- 🌱 I am currently improving myself on **.Net**
-- 💬 Ask me about **HTML, SQL, C#, .NET**  
-- 📫 How to reach me **elifecesanal4@gmail.com**  
+- 💬 Ask me about **HTML, SQL, C#, PHP, .NET**  
+- 📫 How to reach me **elifecesanall@hotmail.com**  
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/elifecesanal/)
 
 ---
